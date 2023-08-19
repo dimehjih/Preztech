@@ -1,0 +1,145 @@
+.orangebox1{
+    position: relative;
+
+}
+.Exclude{
+    position: relative;
+    top: -250px;
+    right: -20px;
+}
+.raoul{
+    position: relative;
+    right: -491px;
+    top: -340px;
+}
+.toprightcol{
+    position: relative;
+    right: -900px;
+    top: -755px;
+    width: 200px;
+    height: 646px;
+    background-color: #252525;
+
+}
+.body{
+    background-color: black;
+}
+.shoes{
+    position: relative;
+    top: -1150px;
+    right: -880px;
+    font-size: 2.1rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img1{
+    position: relative;
+    top: -1125px;
+    right: -220px;
+}
+.rect5{
+    position: relative;
+    top: -1225px;
+    right: -400px;
+    width: 455px;
+    height: 83px;
+}
+.home{
+   
+    color: #969494;;
+}
+.catalog{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.brands{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.nike{
+   color:#585858; 
+
+}
+.reviews{
+    color: #969494;
+}
+.discant{
+    background-color: rgb(230, 136, 120);
+    width: 251px;
+    height: 241px;
+}
+.textbottom{
+    width: 251px;
+    background: black;
+    background-color:#201f1f;
+}
+
+
+.brandshoes{
+    background-color: rgb(233, 130, 130);
+    width: 703px;
+    height: 255px;
+}
+.subtractt{
+    position: relative;
+    top: -105px;
+    right: -360px;
+}
+.img4{
+    position: relative;
+    top: -330px;
+    right: -10px;
+}
+.brindshoes{
+    position: relative;
+    right: -160px;
+    top: -40px;
+}
+.wedeliver{
+    position: relative;
+    right: -60px;
+    top: -350px;
+}
+.shoes1{
+    position: relative;
+    top: -1143px;
+    right: -209.5px;
+    width: 242px;
+    height: 973px;
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
+.gotocatlog{
+    position: relative;
+    right: -110px;
+    background-color: black;
+   width: 143px;
+   height: 33px; 
+   text-align: center;
+   border-radius: 50px;
+   vertical-align: middle;
+   padding: 0px;
+   
+}
+.brandshoes{
+    position: absolute;
+    top: 695px;
+   left: 460px;
+}
+/* .ipad{
+    width: 1024px;
+    height: 1205px;
+    border: 5px solid white;
+    background-color: black;
+    
+} */
+.nike20{
+    color: white;
+    position: relative;
+    top: -500px;
+    right: -250px;
+
+}
